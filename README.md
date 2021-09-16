@@ -1,5 +1,4 @@
 # Docker MySQL Node Sequelize React boilerplate project
-test
 This is a boilerplate Docker project that:
 
 1. Starts a MySQL server container based on the [official image](https://hub.docker.com/_/mysql/),
